@@ -10,7 +10,7 @@ function getWithdrawalAmount() {
 // Función para calcular la cantidad de billetes necesarios para cada denominación
 function calculateBilletsNeeded(amount) {
   return denominations.map(denomination => {
-    // Calcula la cantidad de billetes necesarios para la denominación actual
+    // Calcula  cantidad de billetes necesarios para la denominación actual
     const billetsNeeded = Math.floor(amount / denomination);
     amount -= billetsNeeded * denomination; // Reduce la cantidad restante después de calcular los billetes necesarios
     return billetsNeeded; // Devuelve la cantidad de billetes necesarios para la denominación actual
