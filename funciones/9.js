@@ -17,4 +17,4 @@ function esPalindromo(num) {
     console.log(esPalindromo(12321)); // Output: true 
     console.log(esPalindromo(54765)); // Output: false 
     console.log(esPalindromo(-101)); // Output: true 
-    console.log(esPalindromo(3.14)); // Output: "El valor debe ser un número entero."
+    console.log(esPalindromo(3.14)); // Output: "El valor debe ser un número entero"
