@@ -17,6 +17,7 @@ function sumaDivisores(num) {
         }
     }
 
+
     return suma;
 }
     console.log(sumaDivisores(12)); // Output: 16
