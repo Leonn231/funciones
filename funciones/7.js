@@ -11,7 +11,7 @@ function contarVocales(str) {
             vocales++;
         }
     }
-    // Devolver el recuento de vocales 
+    // Devolver el recuento de vocales  
     return vocales;
 }
     console.log(contarVocales("Hola")); // Output: 2
