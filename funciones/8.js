@@ -26,5 +26,5 @@ function calcularPotencia(base, exponente) {
 }
 console.log(calcularPotencia(2, 3)); // Output: 8
 console.log(calcularPotencia(5, -2)); // Output: 0.04
-console.log(calcularPotencia(0, -5)); // Output: "No se puede realizar la operación." 
+console.log(calcularPotencia(0, -5)); // Output: "No se puede realizar la operación" 
 console.log(calcularPotencia(3.5, 2)); // Output: "Ambos números deben ser enteros."
