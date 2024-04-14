@@ -17,4 +17,4 @@ function calcularMCD(a, b) {
 console.log(calcularMCD(24, 18)); // Output: 6
 console.log(calcularMCD(10, 5)); // Output: 5
 console.log(calcularMCD(7, 3)); // Output: 1
-console.log(calcularMCD(3.5, 2)); // Output: "Ambos números deben ser enteros."
+console.log(calcularMCD(3.5, 2)); // Output: "Ambos números deben ser enteros"
